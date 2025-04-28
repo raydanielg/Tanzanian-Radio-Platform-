@@ -16,7 +16,7 @@ export const Footer = () => {
           
           <div className="flex flex-wrap justify-center gap-6">
             <a
-              href="https://github.com/airiermonster"
+              href="https://github.com/raydanielg"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-white/80 hover:text-primary transition-all transform hover:scale-110"
@@ -25,7 +25,7 @@ export const Footer = () => {
               <span>GitHub</span>
             </a>
             <a
-              href="https://x.com/airiermonster"
+              href="https://x.com/raydanielg"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-white/80 hover:text-primary transition-all transform hover:scale-110"
@@ -34,7 +34,7 @@ export const Footer = () => {
               <span>Twitter</span>
             </a>
             <a
-              href="https://www.facebook.com/maxmillian.urio"
+              href="https://www.facebook.com/raydaniel"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-white/80 hover:text-primary transition-all transform hover:scale-110"
@@ -43,7 +43,7 @@ export const Footer = () => {
               <span>Facebook</span>
             </a>
             <a
-              href="https://www.linkedin.com/in/maxmillian-urio-5099aa116/"
+              href="https://www.linkedin.com/in/ezra-daniel/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-white/80 hover:text-primary transition-all transform hover:scale-110"
@@ -52,7 +52,7 @@ export const Footer = () => {
               <span>LinkedIn</span>
             </a>
             <a
-              href="https://t.me/airiermonster"
+              href="https://t.me/raydaniel"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-white/80 hover:text-primary transition-all transform hover:scale-110"

@@ -11,12 +11,12 @@ export const Navbar = () => {
           <Link to="/" className="flex items-center gap-2 group">
             <Radio className="w-6 h-6 text-primary transition-transform group-hover:scale-110 animate-float" />
             <span className="text-xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              Bongo Radio Hub
+              Tanzania Radios
             </span>
           </Link>
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com/airiermonster"
+              href="https://github.com/raydanielg"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white/80 hover:text-primary transition-colors"
@@ -24,7 +24,7 @@ export const Navbar = () => {
               GitHub
             </a>
             <a
-              href="https://x.com/airiermonster"
+              href="https://x.com/amoleck"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white/80 hover:text-primary transition-colors"
