@@ -15,6 +15,12 @@ export const Navbar = () => {
             </span>
           </Link>
           <div className="flex items-center gap-4">
+            <Link
+              to="/contact"
+              className="text-white/80 hover:text-primary transition-colors"
+            >
+              Contact
+            </Link>
             <a
               href="https://github.com/raydanielg"
               target="_blank"
